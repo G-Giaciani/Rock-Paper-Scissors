@@ -55,5 +55,4 @@ function playGame() {
         console.log("Sorry, the computer won the game.");
     }
 }
-
 playGame();
