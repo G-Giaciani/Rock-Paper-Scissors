@@ -32,6 +32,11 @@ body {
     font-weight: 200;
 }
 
+i {
+    font-size: 24px;
+    color: antiquewhite;
+}
+
 .botao {
     background-color: #DCDCDC;
     border-radius: 16px;
